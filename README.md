@@ -1,4 +1,4 @@
-![](https://github.com/davinahouquet/davinahouquet/blob/main/cover2.jpg)
+![](https://github.com/davinahouquet/davinahouquet/blob/main/Banni%C3%A8regithub.jpg)
 
 ### Bonjour ! C'est Davina 👋
 
