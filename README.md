@@ -1,6 +1,13 @@
-![](https://github.com/davinahouquet/davinahouquet/blob/main/davinahouquetcover1.jpg)
+<h1 align = 'center' >Hi ! I'm Davina 👋</h1>
 
-<h1 align = 'center' >Bonjour ! C'est Davina 👋</h1>
+![](https://github.com/davinahouquet/davinahouquet/blob/main/banniere.jpg)
 
-<h2 align='center'>En formation chez  <img width="10" height="10" src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/>ELAN<img  width="10" height="10"src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/> </h2><br>
-<p align = 'center'>HTML | CSS | PHP | JavaScript | SQL </p>
+<div style="width: 100%; display: flex; flex-direction: row">
+    <div style="width: 50%;">
+				<h2 align='center'>En formation chez  <img width="10" height="10" src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/>ELAN<img  width="10" height="10"src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/> </h2>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davinahouquet&hide=javascript,css,scss,html&theme=tokyonight)
+	 </div>
+	<div style="width: 50%;">
+</div>
