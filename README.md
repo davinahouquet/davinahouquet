@@ -3,10 +3,8 @@
 <div style="width: 100%; display: flex; flex-direction: row">
     <div style="width: 50%;">
 				<h2 align='center'><img width="10" height="10" src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/>A passionate fullstack developer from France<img  width="10" height="10"src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/> </h2>
-	    
-- 🔭 I’m currently working on [my portfolio](https://davinahouquet.fr/)
 
-- 🌱 I’m currently learning **PHP, Symfony**
+- 🌱 I’m currently learning **Magento**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davinahouquet?tab=repositories](https://github.com/davinahouquet?tab=repositories)
 
