@@ -1,20 +1,8 @@
-<h1 align='center'>Hi ! I'm Davina 👋</h1>
-
 <div style="width: 100%; display: flex; flex-direction: row">
     <div style="width: 50%;">
         <h2 align='center'><img width="10" height="10" src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/> A passionate fullstack developer from France <img width="10" height="10" src="https://github.com/davinahouquet/davinahouquet/blob/main/brille.png"/> </h2>
     </div>
 </div>
-
-- 🌱 I’m currently learning **Magento**
-
-- 👨‍💻 All of my projects are available at [https://github.com/davinahouquet?tab=repositories](https://github.com/davinahouquet?tab=repositories)
-
-- 📫 How to reach me **davina.houquet@hotmail.com**
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
